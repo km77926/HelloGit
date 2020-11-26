@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Good morning
+goodnight * Good morning
 +++++
-=======
-goodnight
 -----
->>>>>>> sub2
